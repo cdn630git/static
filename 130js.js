@@ -1,4 +1,3 @@
-var host = window.location.host.toLowerCase();
 var url = new Array();
 url.push("0909rr.com");
 url.push("1010rr.com");
