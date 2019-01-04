@@ -1,4 +1,4 @@
-document.writeln("<script type=\"text/javascript\" src=\"https://cdn.jsdelivr.net/gh/cdn630git/static@master/mobile.js\"></script>");
+document.writeln("<script type=\"text/javascript\" src=\"/js/mobile.js\"></script>");
 document.writeln("<div class=\"nav_top\" style=\"width:100%;height:50px;\">");
 document.writeln("<div class=\"top_gg\">");
 document.writeln("<span class=\"domain\"><div id=\"logo\">{$siteurl}</div></span><div class=\"nav_bar_r1\">|&nbsp;&nbsp;請使用Ctrl+D進行收藏本站!&nbsp;&nbsp;|&nbsp;&nbsp;获取地址邮箱：521av@mail.com&nbsp;&nbsp;|&nbsp;&nbsp;");
