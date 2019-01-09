@@ -92,27 +92,27 @@ function scrollx(p){
 
 	adLeftCoupleTop=50;
 	adLeftCoupleLeft=0;
-	adLeftCoupleTxt='<a href="https://www.jse9.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/large/006fVPCvly1fy6hz69jtgg303m07iqbd.gif" border="0" width="150" height="350"></a>';
+	adLeftCoupleTxt='<a href="https://www.433ab.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/large/006fVPCvly1fy6hz69jtgg303m07iqbd.gif" border="0" width="150" height="350"></a>';
 
 	adRightCoupleTop=50;
 	adRightCoupleRight=0;
-    adRightCoupleTxt='<a href="https://www.12hvip.com/main.html?m=reg" target="_blank"><img src="https://i.imgur.com/CuRtkjG.gif" border="0" width="150" height="350"></a>';
+    adRightCoupleTxt='<a href="https://www.859nn.com/main.html?m=reg" target="_blank"><img src="https://i.imgur.com/CuRtkjG.gif" border="0" width="150" height="350"></a>';
 
 	adLeftFloatLeft=0;
 	adLeftFloatBottom=125;
-	adLeftFloatTxt='<a href="https://m.12hvip.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0se432zg305k064n50.gif" border="0" width="180" height="200"></a>';
+	adLeftFloatTxt='<a href="https://m.859nn.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0se432zg305k064n50.gif" border="0" width="180" height="200"></a>';
 
 	adLeftFloatpcLeft=0;
 	adLeftFloatpcBottom=0;
-	adLeftFloatpcTxt='<a href="https://www.13hvip.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0se432zg305k064n50.gif" border="0" width="180" height="200"></a>';
+	adLeftFloatpcTxt='<a href="https://www.632nn.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0se432zg305k064n50.gif" border="0" width="180" height="200"></a>';
 	
 	adRightFloatRight=0;
 	adRightFloatBottom=125;
-    adRightFloatTxt='<a href="https://m.5ymt.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0e4pwu7g305k064whw.gif" border="0" width="180" height="200"></a>';
+    adRightFloatTxt='<a href="https://m.036ww.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0e4pwu7g305k064whw.gif" border="0" width="180" height="200"></a>';
 
 	adRightFloatpcRight=0;
 	adRightFloatpcBottom=0;
-    adRightFloatpcTxt='<a href="https://www.62pe.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0e4pwu7g305k064whw.gif" border="0" width="180" height="200"></a>';
+    adRightFloatpcTxt='<a href="https://www.032ww.com/main.html?m=reg" target="_blank"><img src="https://wx1.sinaimg.cn/mw690/0060lm7Tly1fti0e4pwu7g305k064whw.gif" border="0" width="180" height="200"></a>';
 
 
 	//以下代码请勿修改
@@ -121,117 +121,117 @@ function scrollx(p){
 	var x = Math.random();
 	if (x <= 0.2)
     {
-	index1=index1+"<A href=\"https://m.53cu.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	index1=index1+"<A href=\"https://m.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-    index1=index1+"<A href=\"https://m.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.53cu.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-    index1=index1+"<A href=\"https://m.53cu.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	index1=index1+"<A href=\"https://m.053ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	index1=index1+"<A href=\"https://m.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+    index1=index1+"<A href=\"https://m.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.053ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+    index1=index1+"<A href=\"https://m.053ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 	
     index2=index2+"<div class=\"index2\"><div class='index3'>";
-	index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
     index2=index2+"<\/div></div>";
 	}
 	if (x >0.2 && x <=0.4)
     {
-	index1=index1+"<A href=\"https://m.5cvcv.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	index1=index1+"<A href=\"https://m.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-    index1=index1+"<A href=\"https://m.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.5cvcv.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-    index1=index1+"<A href=\"https://m.5cvcv.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	index1=index1+"<A href=\"https://m.037ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	index1=index1+"<A href=\"https://m.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+    index1=index1+"<A href=\"https://m.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.037ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+    index1=index1+"<A href=\"https://m.037ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 	
     index2=index2+"<div class=\"index2\"><div class='index3'>";
-	index2=index2+"<A href=\"https://m.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
     index2=index2+"<\/div></div>";
 	}
 	if (x >0.4 && x <=0.6)
     {
-	index1=index1+"<A href=\"https://m.5ymt.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-    index1=index1+"<A href=\"https://m.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.5ymt.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-    index1=index1+"<A href=\"https://m.5ymt.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	index1=index1+"<A href=\"https://m.036ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	index1=index1+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+    index1=index1+"<A href=\"https://m.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.036ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+    index1=index1+"<A href=\"https://m.036ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 	
     index2=index2+"<div class=\"index2\"><div class='index3'>";
-	index2=index2+"<A href=\"https://m.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
     index2=index2+"<\/div></div>";
 	}
 	if (x >0.6 && x <=0.8)
     {
-	index1=index1+"<A href=\"https://m.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-    index1=index1+"<A href=\"https://m.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-    index1=index1+"<A href=\"https://m.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	index1=index1+"<A href=\"https://m.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	index1=index1+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+    index1=index1+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+    index1=index1+"<A href=\"https://m.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 	
     index2=index2+"<div class=\"index2\"><div class='index3'>";
-	index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
     index2=index2+"<\/div></div>";
 	}
 	if (x >0.8 && x <=2)
     {
-	index1=index1+"<A href=\"https://m.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-    index1=index1+"<A href=\"https://m.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	index1=index1+"<A href=\"https://m.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-    index1=index1+"<A href=\"https://m.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	index1=index1+"<A href=\"https://m.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-    index1=index1+"<A href=\"https://m.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	index1=index1+"<A href=\"https://m.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	index1=index1+"<A href=\"https://m.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+    index1=index1+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	index1=index1+"<A href=\"https://m.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+    index1=index1+"<A href=\"https://m.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	index1=index1+"<A href=\"https://m.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+    index1=index1+"<A href=\"https://m.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 	
     index2=index2+"<div class=\"index2\"><div class='index3'>";
-	index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-    index2=index2+"<A href=\"https://m.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	index2=index2+"<A href=\"https://m.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+    index2=index2+"<A href=\"https://m.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	index2=index2+"<A href=\"https://m.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
     index2=index2+"<\/div></div>";
 	}
 
@@ -249,117 +249,117 @@ function scrollx(p){
 	   var y = Math.random();
 	   if (y <= 0.2)
 	   {
-	   index1=index1+"<A href=\"https://www.53cu.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-       index1=index1+"<A href=\"https://www.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.53cu.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-       index1=index1+"<A href=\"https://www.53cu.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	   index1=index1+"<A href=\"https://www.053ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	   index1=index1+"<A href=\"https://www.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+       index1=index1+"<A href=\"https://www.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.053ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+       index1=index1+"<A href=\"https://www.053ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
  
 	  index2=index2+"<div class=\"index2\"><div class='index3'>";
-	  index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.8hkh.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jsi3.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.928nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.35jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
       index2=index2+"<\/div></div>";
 	   }
 	   if (y >0.2 && y <=0.4)
 	   {
-	   index1=index1+"<A href=\"https://www.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-       index1=index1+"<A href=\"https://www.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-       index1=index1+"<A href=\"https://www.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	   index1=index1+"<A href=\"https://www.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	   index1=index1+"<A href=\"https://www.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+       index1=index1+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+       index1=index1+"<A href=\"https://www.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 		
 	   index2=index2+"<div class=\"index2\"><div class='index3'>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.18hgg.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jse9.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.433ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
       index2=index2+"<\/div></div>";
 	   }
 	   if (y >0.4 && y <=0.6)
 	   {
-	   index1=index1+"<A href=\"https://www.5cvcv.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-       index1=index1+"<A href=\"https://www.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.5cvcv.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-       index1=index1+"<A href=\"https://www.5cvcv.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	   index1=index1+"<A href=\"https://www.037ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	   index1=index1+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+       index1=index1+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.037ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+       index1=index1+"<A href=\"https://www.037ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 		
 	   index2=index2+"<div class=\"index2\"><div class='index3'>";
-	  index2=index2+"<A href=\"https://www.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.13hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.632nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
       index2=index2+"<\/div></div>";
 	   }
 	   if (y >0.6 && y <=0.8)
 	   {
-	   index1=index1+"<A href=\"https://www.5ymt.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-       index1=index1+"<A href=\"https://www.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.5ymt.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-       index1=index1+"<A href=\"https://www.5ymt.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	   index1=index1+"<A href=\"https://www.036ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	   index1=index1+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+       index1=index1+"<A href=\"https://www.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.036ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+       index1=index1+"<A href=\"https://www.036ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 		
 	   index2=index2+"<div class=\"index2\"><div class='index3'>";
-	  index2=index2+"<A href=\"https://www.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.8hha.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jsf7.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.916nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.58jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
       index2=index2+"<\/div></div>";
 	   }
 	   if (y >0.8 && y <=2)
 	   {
-	   index1=index1+"<A href=\"https://www.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
-       index1=index1+"<A href=\"https://www.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
-	   index1=index1+"<A href=\"https://www.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
-       index1=index1+"<A href=\"https://www.62pe.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
-	   index1=index1+"<A href=\"https://www.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
-       index1=index1+"<A href=\"https://www.zy155.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+	   index1=index1+"<A href=\"https://www.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"960\" height=\"137\"><\/A>";
+	   index1=index1+"<A href=\"https://www.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrb0nlvqg30qo01o77i.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthr9qk180g30qo01oadv.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fthrmzhh1kj30qo01o0tr.jpg\" width=\"960\" height=\"55\"><\/A>";
+       index1=index1+"<A href=\"https://www.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthrp4z617j30qo01ojs8.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx3.sinaimg.cn/large/006fVPCvly1fthrpv4j1dj30qo01nq3y.jpg\" width=\"960\" height=\"55\"><\/A>";
+	   index1=index1+"<A href=\"https://www.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fthqphtdtxg30qo01oq42.gif\" width=\"960\" height=\"70\"><\/A>";
+       index1=index1+"<A href=\"https://www.032ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fthqvqnts8g30qo01o755.gif\" width=\"960\" height=\"70\"><\/A>";
+	   index1=index1+"<A href=\"https://www.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"960\" height=\"160\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
+       index1=index1+"<A href=\"https://www.937nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"960\" height=\"80\"><\/A>";
 		
 	   index2=index2+"<div class=\"index2\"><div class='index3'>";
-	  index2=index2+"<A href=\"https://www.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.12hvip.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-      index2=index2+"<A href=\"https://www.46ts.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
-	  index2=index2+"<A href=\"https://www.jse4.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.859nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://ae01.alicdn.com/kf/HTB1AoMbaovrK1RjSszf5jXJNVXas.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+      index2=index2+"<A href=\"https://www.065ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6imiwmhpg30qo01o0va.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
+	  index2=index2+"<A href=\"https://www.622ab.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"960\" height=\"70\"><\/A>";
       index2=index2+"<\/div></div>";
 	   }
 		if (adLeftCoupleTxt!=""){
@@ -392,7 +392,7 @@ function scrollx(p){
 	vodhelp=vodhelp+'<a href="/help/m-play.html" target="_blank"><span style="color:#ff0000;line-height:1.5;font-size:16px;">【手机播放教程】</span></a><a href="/help/pc-play.html" target="_blank"><span style="color:#ff0000;line-height:1.5;font-size:16px;">【电脑播放教程】</span></a> <a href="/help/weixin.html" target="_blank"><span style="color:#ff0000;font-weight:bold;line-height:1.5;font-size:16px;">【永久地址获取方法】</span></a>';
 	//vodhelp1=vodhelp1+'html代码'';
 	//播放頁文字
-    playhelp='<span class="playerTip"><a style="background: #d5210f;color:#fff;" href="https://www.5cvcv.com/main.html?m=reg" target="_blank" >新用户注册送68元，首存最高送3888元!!<font style="background: #d5210f;color:#FFFF00;font-size:35px">  点击进入!!</font></a></span>';
+    playhelp='<span class="playerTip"><a style="background: #d5210f;color:#fff;" href="https://www.037ww.com/main.html?m=reg" target="_blank" >新用户注册送68元，首存最高送3888元!!<font style="background: #d5210f;color:#FFFF00;font-size:35px">  点击进入!!</font></a></span>';
 	palyhelp='<span class="playerTip"><a style="color:#fff;"href="/help/index.html" target="_blank" class="white">建议使用谷歌或苹果自带浏览,若无法播放请点击查看帮助教程!</a></span>';
 //aaa
 	if(navigator.userAgent.match(/Android/i)) {
